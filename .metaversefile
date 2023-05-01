@@ -1,7 +1,7 @@
 {
   "name": "pistol",
   "description": "A ranged weapon",
-  "start_url": "index.js",
+  "start_url": "military.glb",
   "components": [
     {
       "key": "aim",
